@@ -2,75 +2,62 @@
     "data": {
         "networks": [
             {
-                "default": [
+                "name": "default",
+                "topics": [
                     {
-                        "mortgages": [
+                        "name": "mortgages",
+                        "faqs": [
                             {
-                                "q": "What is a mortgage?",
-                                "a": "A mortgage is a loan you use to buy a home. You pay it back over time, plus interest."
-                            },
-                            {
-                                "q": "How much can I borrow for a mortgage?",
-                                "a": "It depends on your income, credit score, and the lender's policies. Typically, it's around 3-5 times your annual income."
-                            },
-                            {
-                                "q": "What's a deposit payment?",
-                                "a": "A deposit payment is the initial payment you make when buying a house. It's a percentage of the home's price, the minimum deposit is usually around 5%."
+                                "questions": [
+                                    {
+                                        "q": "Default mortgage question 1",
+                                        "a": "Default mortgage answer 1"
+                                    }
+                                ]
                             }
                         ]
                     },
                     {
-                        "pensions": [
+                        "name": "pensions",
+                        "faqs": [
                             {
-                                "q": "Pension question 1",
-                                "a": "Pension answer 1"
-                            },
-                            {
-                                "q": "Pension question 2",
-                                "a": "Pension answer 2"
-                            }
-                            ,
-                            {
-                                "q": "Pension question 3",
-                                "a": "Pension answer 3"
+                                "questions": [
+                                    {
+                                        "q": "Default pension question 1",
+                                        "a": "Default pension answer 1"
+                                    }
+                                ]
                             }
                         ]
                     }
                 ]
             },
             {
-                "bankhall": [
+                "name": "bankhall",
+                "topics": [
                     {
-                        "mortgages": [
+                        "name": "mortgages",
+                        "faqs": [
                             {
-                                "q": "Bankhall Mortgage question 1",
-                                "a": "Bankhall Mortgage answer 1"
-                            },
-                            {
-                                "q": "Bankhall Mortgage question 2",
-                                "a": "Bankhall Mortgage answer 2"
-                            }
-                            ,
-                            {
-                                "q": "Bankhall Mortgage question 3",
-                                "a": "Bankhall Mortgage answer 3"
+                                "questions": [
+                                    {
+                                        "q": "Bankhall mortgage question 1",
+                                        "a": "Bankhall mortgage answer 1"
+                                    }
+                                ]
                             }
                         ]
                     },
                     {
-                        "pensions": [
+                        "name": "pensions",
+                        "faqs": [
                             {
-                                "q": "Bankhall Pension question 1",
-                                "a": "Bankhall Pension answer 1"
-                            },
-                            {
-                                "q": "Bankhall Pension question 2",
-                                "a": "Bankhall Pension answer 2"
-                            }
-                            ,
-                            {
-                                "q": "Bankhall Pension question 3",
-                                "a": "Bankhall Pension answer 3"
+                                "questions": [
+                                    {
+                                        "q": "Bankhall pension question 1",
+                                        "a": "Bankhall pension answer 1"
+                                    }
+                                ]
                             }
                         ]
                     }
