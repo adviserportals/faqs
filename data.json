@@ -1,0 +1,32 @@
+{
+    "data": {
+        "networks": [
+            {
+                "default": [
+                    {
+                        "mortgages": [
+                            {
+                                "1": [{
+                                    "q": "What is a mortgage?",
+                                    "a": "A mortgage is a loan you use to buy a home. You pay it back over time, plus interest."
+                                }]
+                            },
+                            {
+                                "2": [{
+                                    "q": "How much can I borrow for a mortgage?",
+                                    "a": "It depends on your income, credit score, and the lender's policies. Typically, it's around 3-5 times your annual income."
+                                }]
+                            },
+                            {
+                                "3": [{
+                                    "q": "What's a deposit payment?",
+                                    "a": "A deposit payment is the initial payment you make when buying a house. It's a percentage of the home's price, the minimum deposit is usually around 5%."
+                                }]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
