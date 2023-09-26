@@ -10,68 +10,44 @@
                             {
                                 "questions": [
                                     {
-                                        "q": "Default mortgage question 1",
-                                        "a": "Default mortgage answer 1"
+                                        "q": "What is a mortgage?",
+                                        "a": "A mortgage is a loan you use to buy a home. You pay it back over time, plus interest."
                                     },
                                     {
-                                        "q": "Default mortgage question 2",
-                                        "a": "Default mortgage answer 2"
-                                    }
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "name": "pensions",
-                        "faqs": [
-                            {
-                                "questions": [
-                                    {
-                                        "q": "Default pension question 1",
-                                        "a": "Default pension answer 1"
+                                        "q": "How much can I borrow for a mortgage?",
+                                        "a": "It depends on your income, credit score, and the lender's policies. Typically, it's around 3-5 times your annual income."
                                     },
                                     {
-                                        "q": "Default pension question 2",
-                                        "a": "Default pension answer 3"
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "bankhall",
-                "topics": [
-                    {
-                        "name": "mortgages",
-                        "faqs": [
-                            {
-                                "questions": [
-                                    {
-                                        "q": "Bankhall mortgage question 1",
-                                        "a": "Bankhall mortgage answer 1"
+                                        "q": "What's a deposit payment?",
+                                        "a": "A deposit payment is the initial payment you make when buying a house. It's a percentage of the home's price, the minimum deposit is usually around 5%."
                                     },
                                     {
-                                        "q": "Bankhall mortgage question 2",
-                                        "a": "Bankhall mortgage answer 2"
-                                    }
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "name": "pensions",
-                        "faqs": [
-                            {
-                                "questions": [
-                                    {
-                                        "q": "Bankhall pension question 1",
-                                        "a": "Bankhall pension answer 1"
+                                        "q": "What's the difference between fixed and adjustable-rate mortgages?",
+                                        "a": "A fixed-rate mortgage has a constant interest rate, while an adjustable-rate mortgage's rate can change over time."
                                     },
                                     {
-                                        "q": "Bankhall pension question 2",
-                                        "a": "Bankhall pension answer 2"
+                                        "q": "How long can a mortgage last?",
+                                        "a": "Most mortgages are 15 or 30 years, but you can find other terms too."
+                                    },
+                                    {
+                                        "q": "What's PMI, and do I need it?",
+                                        "a": "PMI (Private Mortgage Insurance) protects the lender if you put down less than 20%. You might need it if your down payment is small."
+                                    },
+                                    {
+                                        "q": "How can I improve my mortgage approval chances?",
+                                        "a": "Pay bills on time, save for a down payment, and maintain a good credit score."
+                                    },
+                                    {
+                                        "q": "What's a pre-approval vs. pre-qualification?",
+                                        "a": "Pre-qualification is an estimate; pre-approval is a firm offer from a lender, showing how much you can borrow."
+                                    },
+                                    {
+                                        "q": "Can I pay off my mortgage early?",
+                                        "a": "Yes, you can make extra payments or refinance to pay it off faster."
+                                    },
+                                    {
+                                        "q": "What happens if I can't make my mortgage payments?",
+                                        "a": "Contact your lender ASAP. They may offer options like loan modification or forbearance to help you during tough times."
                                     }
                                 ]
                             }
